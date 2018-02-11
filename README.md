@@ -64,6 +64,8 @@ the operator can take responsibility for that component.
 
 ## Prior to Mounting
 
+![Tools](images/20180204_132640.jpg)
+
 * Do you have all your tools?
   * Cat5 crimps and crimpers
   * Cat5 cable (at least 100')
